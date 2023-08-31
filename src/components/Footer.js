@@ -17,11 +17,11 @@ class Footer extends Component {
                             </div>
                             <div className="footer-list-div">
                                 <ul>
-                                    <li><a href="#">Karachi</a></li>
-                                    <li><a href="#">Lahore</a></li>
-                                    <li><a href="#">Islamabad</a></li>
-                                    <li><a href="#">Rawalpindi</a></li>
-                                    <li><a href="#">Multan</a></li>
+                                    <li><a href="#">Lagos</a></li>
+                                    <li><a href="#">Dublin</a></li>
+                                    <li><a href="#">Paris</a></li>
+                                    <li><a href="#">Greece</a></li>
+                                    <li><a href="#">Madrid</a></li>
                                 </ul>
                             </div>
                         </div>
